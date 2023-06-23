@@ -1,0 +1,324 @@
+
+.font{
+font-family:century gothic, Tahoma, Verdana, Geneva, Helvetica, sans-serif;
+font-size:12px;
+font-color:#333333;
+}
+
+
+.form { 
+ border: 1px solid #606060; 
+ padding: 4px;
+ font-family: century gothic, Tahoma, Verdana, Geneva, Helvetica, sans-serif;
+ font-size: 11px;
+ color:white;
+ font-weight:bold;
+ 
+}
+
+.left{
+	background-attachment: scroll;
+	background-image: url(../immagini/logo.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	width:365px;
+	height:108px;
+
+}
+
+.right{
+    background-attachment: scroll;
+	background-image: url(../immagini/bookopen.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	width:300px;
+	height:161px;
+	margin:5px;
+
+}
+
+.green{
+	padding:0px 6px;
+	border:1px solid #ffffff;
+	color:#FFFFFF;
+	font-size:11px;
+	margin-right:10px;
+	display:inline-block;
+	text-decoration:none;
+	font-weight: bold;
+	background-color: #f26743;
+	height:23;
+
+}
+
+.line {
+    border: thin #666666;
+	margin-left: 0px;
+	margin-top: 1px;
+	margin-right: 0px;
+	margin-bottom: 1px;
+	
+}
+
+#form2 {
+    background: #FFFFFF;
+    padding: 10px;
+    width: 500px;
+    border: 1px solid #000000;
+    font: 12px century gothic, Tahoma, Verdana, Geneva, Helvetica, sans-serif;
+    color: #000000;
+    }
+	
+
+		input.text2 {
+    font: bold 12px century gothic, Tahoma, Verdana, Geneva, Helvetica, sans-serif;
+    color: #000000;
+    background: #ffffff;
+    text-align: left;
+    padding: 2px;
+    width: 188px;
+	height:20px;
+    border: 1px solid #000000;
+    margin-top: 2px;
+    }
+	
+		input.text {
+    font: bold 12px century gothic, Tahoma, Verdana, Geneva, Helvetica, sans-serif;
+    color: #000000;
+    background: #ffffff;
+    text-align: left;
+    padding: 2px;
+    width: 120px;
+	height:20px;
+    border: 1px solid #000000;
+    margin-top: 2px;
+    }
+	input.text3 {
+    font: bold 12px century gothic, Tahoma, Verdana, Geneva, Helvetica, sans-serif;
+    color: #666666;
+    background: #ffffff;
+    text-align: left;
+    padding: 2px;
+    width: 110px;
+	height:30px;
+    border: 1px solid #666666;
+    margin-top: 0px;
+    }
+		input.pulsante1 {
+    font: bold 12px century gothic, Tahoma, Verdana, Geneva, Helvetica, sans-serif;
+    color: #666666;
+    background: #a8d0f2;
+    text-align: center;
+    padding: 4px;
+    width: 120px;
+	height:40px;
+    border: 1px solid #000000;
+    margin-top: 10px;
+    }
+
+
+
+.main {
+width:160px;
+border:0px;
+background-color:#ffffcc;
+
+}
+.month {
+    background-color:#333333;
+	font-family:century gothic, Tahoma, Verdana, Geneva, Helvetica, sans-serif;
+	font-size:11px;
+	color:white;
+	font-weight: bold;
+	padding: 2px;
+	text-transform: uppercase;
+}
+.daysofweek {
+background-color:#f26843;
+font-family:century gothic, Tahoma, Verdana, Geneva, Helvetica, sans-serif;
+color:white;
+font-size:11px;
+font-weight:bold;
+padding: 0px;
+}
+.days {
+font-size: 11px;
+font-family:century gothic, Tahoma, Verdana, Geneva, Helvetica, sans-serif;
+color:black;
+background-color: #ffffcc;
+padding: 0px;
+}
+.days #today{
+font-size:12px;
+font-weight: bold;
+color: red;
+}
+
+
+
+
+    div.top {
+	  width: 200px;
+      background-image:     url(../immagini/top.jpg);
+      background-position: top left;
+      background-repeat: no-repeat;
+    }
+	
+ div.middle {
+      width: 200px;
+      background-image:   url(../immagini/middle.jpg);
+      background-repeat: repeat-y;
+ }
+
+    div.bottom {
+	  width: 200px;
+      background-image:     url(../immagini/down.jpg);
+      background-position: bottom left;
+      background-repeat: no-repeat;
+    }
+
+
+
+
+
+    div.sup {
+	  width: 200px;
+      background-image:     url(../immagini/sup.jpg);
+      background-position: top left;
+      background-repeat: no-repeat;
+    }
+	
+ div.mez {
+      width: 200px;
+      background-image:   url(../immagini/mez.jpg);
+      background-repeat: repeat-y;
+ }
+
+    div.inf {
+	  width: 200px;
+      background-image:     url(../immagini/inf.jpg);
+      background-position: bottom left;
+      background-repeat: no-repeat;
+    }
+
+
+
+
+
+
+    div.top1 {
+	  width: 479px;
+      background-image:     url(../immagini/3.jpg);
+      background-position: top left;
+      background-repeat: no-repeat;
+    }
+	
+ div.middle1 {
+      width: 479px;
+      background-image:   url(../immagini/2.jpg);
+      background-repeat: repeat-y;
+ }
+
+    div.bottom1 {
+	  width: 479px;
+      background-image:     url(../immagini/1.jpg);
+      background-position: bottom left;
+      background-repeat: no-repeat;
+    }
+
+
+
+
+
+
+    div.topa {
+	  width: 200px;
+      background-image:     url(../immagini/a.jpg);
+      background-position: top left;
+      background-repeat: no-repeat;
+    }
+	
+ div.middlea {
+      width: 200px;
+      background-image:   url(../immagini/b.jpg);
+      background-repeat: repeat-y;
+ }
+
+    div.bottoma {
+	  width: 200px;
+      background-image:     url(../immagini/c.jpg);
+      background-position: bottom left;
+      background-repeat: no-repeat;
+    }
+
+
+	.gurtl0onorm {
+	padding: 3px;
+	font: 12px century gothic, Tahoma, Verdana, Geneva, Helvetica, sans-serif;
+	text-decoration: none;
+	border: 1px solid #cbe0e2;
+	border-left: 4px solid #cbe0e2;
+	background: #cbe0e2;
+	color: #333333;
+	cursor: default;
+    text-transform:uppercase;
+}
+
+.gurtl0oover {
+	padding: 3px;
+	font: 12px century gothic, Tahoma, Verdana, Geneva, Helvetica, sans-serif;
+	text-decoration: none;
+	border: 1px solid #f2f2f2;
+	border-left: 4px solid #f99825;
+	background: #f2f2f2;
+	color: #333333;
+	cursor: default;
+    font-weight:bold;
+    text-transform:uppercase;
+}
+
+.gurtl0oclck {
+	padding: 3px;
+	font: 12px century gothic, Tahoma, Verdana, Geneva, Helvetica, sans-serif;
+	text-decoration: none;
+	border: 1px solid #f2f2f2;
+	border-left: 4px solid #f99825;
+	background: #f2f2f2;
+	color: #333333;
+	text-transform:uppercase;
+	cursor: default;
+	   font-weight:bold;
+}
+.gurtl1onorm {
+	padding: 3px;
+	font: 12px century gothic, Tahoma, Verdana, Geneva, Helvetica, sans-serif;
+	text-decoration: none;
+	border: 1px solid white;
+	border-left: 4px solid #f2f2f2;
+	background: #f2f2f2;
+	color: #333333;
+		cursor: default;
+}
+.gurtl1oover {
+	padding: 3px;
+	font: 12px century gothic, Tahoma, Verdana, Geneva, Helvetica, sans-serif;
+	text-decoration: none;
+	border: 1px solid white;
+	border-left: 4px solid #f99825;
+	background: #DBDFDF;
+	color: #333333;
+		cursor: default;
+	font-weight:bold;
+}
+.gurtl1oclck {
+	padding: 3px;
+	font: 12px century gothic, Tahoma, Verdana, Geneva, Helvetica, sans-serif;
+	text-decoration: none;
+	border: 1px solid white;
+	border-left: 4px solid #f99825;
+	background: #DBDFDF;
+	color: #333333;
+	cursor: default;
+}
+
+

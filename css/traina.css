@@ -1,0 +1,231 @@
+a:link {
+	font-family: century gothic, Tahoma, Verdana, Geneva, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+	text-decoration: none;
+	font-weight: normal;
+	font-style: normal;
+
+}
+a:visited {
+	font-family: century gothic, Tahoma, Verdana, Geneva, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+	text-decoration: none;
+	font-weight: normal;
+	font-style: normal;
+}
+a:hover {
+	font-family: century gothic, Tahoma, Verdana, Geneva, Helvetica, sans-serif;
+	font-size: 10px;
+	text-decoration: none;
+	color: #333333;
+	font-weight: bold;
+	font-style: normal;
+
+}
+
+p {
+	font-family: century gothic, Tahoma, Verdana, Geneva, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+	font-style: normal;
+	text-align:justify;
+	text-align: justify;
+	margin: 10px;
+
+}
+
+h1 {
+	font-family: century gothic, Tahoma, Verdana, Geneva, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: #f08232;
+	text-decoration: none;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+h3{
+	font-family: century gothic, Tahoma, Verdana, Geneva, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: #f08232;
+	text-decoration: none;
+	margin-left: 10px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+h5 {
+	font-family: century gothic, Tahoma, Verdana, Geneva, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+h6 {
+	font-family: century gothic, Tahoma, Verdana, Geneva, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+	margin-left: 10px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+h2 {
+	font-family: century gothic, Tahoma, Verdana, Geneva, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	color: #666666;
+	text-decoration: none;
+	text-transform: uppercase;
+	background-attachment: scroll;
+	background-image:   url(../immagini/v.jpg);
+	background-repeat: no-repeat;
+	background-position: -10px top;
+	text-align: right;
+	margin: 6px;
+	padding: 6px;
+	vertical-align: middle;
+	text-indent: 60px;
+
+}
+h4 {
+	font-family: century gothic, Tahoma, Verdana, Geneva, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	
+}
+hr {
+    border: thin dashed #d9dfe0;
+	margin-left: 0px;
+	margin-top: 1px;
+	margin-right: 0px;
+	margin-bottom: 1px;
+	
+	
+}
+
+
+img.con{
+float : left;
+	margin-left: 10px;
+	margin-top: 5px;
+	margin-right: 10px;
+	margin-bottom: 5px;
+	width:65px;
+	height:94px;
+}
+img.con2{
+float : right;
+margin: 15px 0px 15px 15px;
+}
+img.con3{
+float : right;
+margin: 15px 30px 15px 15px;
+}
+img.con4{
+float : left;
+margin: 15px 15px 15px 0px;
+}
+img.con5{
+float : right;
+margin: 25px 50px 15px 15px;
+}
+
+.des {
+	margin: 15px;
+	background-color:#ffffea;
+	font-family: century gothic, Tahoma, Verdana, Geneva, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #333333;
+	text-align: left;
+	padding:4;
+	vertical-align: middle;
+	overflow: auto;
+
+
+
+}
+.isbn {
+margin: 15px;
+background-color:#cbe0e2;
+font-family: century gothic, Tahoma, Verdana, Geneva, Helvetica, sans-serif;
+font-size: 12px;
+font-style: normal;
+font-weight: bold;
+color: #333333;
+text-align: left;
+padding:4;
+}
+.ed {
+margin: 15px;
+background-color:#ffffff;
+font-family: century gothic, Tahoma, Verdana, Geneva, Helvetica, sans-serif;
+font-size: 12px;
+font-style: normal;
+font-weight:bold;
+color: #333333;
+text-align: left;
+padding:4;
+}
+.new{
+background-attachment: scroll;
+background-image:   url(../immagini/n.jpg);
+background-repeat: no-repeat;
+background-position: right center;}
+
+
+body {
+	background-attachment: fixed;
+	background-image:   url(../immagini/bg.jpg);
+	background-repeat: no-repeat;
+	background-position: 10px -80px;
+	font: 8px Arial,Verdana,Helvetica,sans-serif;
+
+}
+select {
+font: bold 12px Arial, Helvetica, sans-serif;
+    color: #000000;
+    background: #ffffff;
+    text-align: left;
+    padding: 2px;
+    width: 120px;
+	height:20px;
+    border: 1px solid #000000;
+    margin-top: 2px;
+}
+li {
+	text-align: left;
+	vertical-align: middle;
+	text-align:left;
+	margin: 2px;
+	padding: 2px;
+	text-transform: uppercase;
+	color:#666666;
+}
