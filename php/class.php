@@ -79,7 +79,7 @@ class database_handling
 			<?
 			$pop_up_location = "product.php?action=view_book&id=".$result_field;		
 			for ($ii=0; $ii < 1 ; $ii++){				
-				$php_pop_up_location = "https://www.xdomain.it/libriprofessionali/php/product.php?action=view_book&id=".$result_field;
+				$php_pop_up_location = "http://bookshop-t.atwebpages.com//php/product.php?action=view_book&id=".$result_field;
 				echo "<tr>";
 				echo "<td width=20% rowspan=4> ";
 				/*echo "<a href=javascript:PopupCentrato('$php_pop_up_location')>"; */
@@ -297,7 +297,7 @@ class database_handling
 				{
 					echo "<td class=td_main><a href=>".$record[$ii]."</a></td>";
 				}
-				$php_pop_up_location = "https://www.xdomain.it/libriprofessionali/php/window_pop_up.php?target=";
+				$php_pop_up_location = "http://bookshop-t.atwebpages.com//php/window_pop_up.php?target=";
 				$action_pop_up = "&link=$link&id=".$result_field;
 				//$php_pop_up_location .= "edit&link=$link&id=".$result_field;
 				echo "<td class=td_main>";
