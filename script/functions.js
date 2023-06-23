@@ -111,13 +111,12 @@ function do_get_url(){
 }
 
 function do_popup(url){
-	var w = 400;
+	var w = 600;
 	var h = 600;
 	var l = Math.floor((screen.width-w)/2);
 	var t = Math.floor((screen.height-h)/2);
 	window.open(url,"Catalogo","width=" + w + ",height=" + h + ",top=" + t + ",left=" + l);
  }
-
 
 
 
